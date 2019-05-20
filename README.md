@@ -7,11 +7,13 @@ Interface gráfica do projeto feita com WinForms
 
 
 ![](Interface1.png)
-Gera cidades em círculo para testar o algorítimo, possui gráfico para acompanhar o melhor caminho de cada geração e mostra os dados do melhor gene.
+Gera cidades em círculo para testar o algorítimo, possui gráfico para acompanhar a menor distância percorrida de cada geração e mostra os dados do melhor gene.
+
 
 
 ![](Interface2.png)
 Gera cidades de forma aleatória para simular um caso real.
+
 
 # Sugestões para o futuro:
 
