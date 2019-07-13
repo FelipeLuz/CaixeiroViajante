@@ -332,7 +332,6 @@ namespace CaixeiroViajante
 
         }
     
-
         private void button4_Click(object sender, EventArgs e)
         {
             grafico.Clear(Color.White);

@@ -18,3 +18,13 @@ C:\Users\Felipe\Documents\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroVi
 C:\Users\Felipe\Documents\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe.config
 C:\Users\Felipe\Documents\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe
 C:\Users\Felipe\Documents\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe.config
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.Form1.resources
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.Properties.Resources.resources
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.exe
+C:\Users\Felipe\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
