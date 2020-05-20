@@ -1,7 +1,7 @@
 # CaixeiroViajante
 Problema do Caixeiro Viajante resolvido usando algoritimo genético em C#
 
-Essa é uma tentativa de resolver o clássico problema do caixeiro viajante sem utilizar bilbliotecas prontas, o algoritmo está quase 100%, mas as vezes ele apenas fica preso em alguns minimos locais.
+Essa é uma tentativa de resolver o clássico problema do caixeiro viajante sem utilizar bilbliotecas de terceiros, o algoritmo está praticamente 100% funcional.
 
 Interface gráfica do projeto feita com WinForms
 
@@ -17,5 +17,5 @@ Gera cidades de forma aleatória para simular um caso real.
 
 # Sugestões para o futuro:
 
-- Corrigir o problema dos minimos locais;
+- Corrigir problemas dos minimos locais;
 - Adicionar coordenadas de cidades reais e estradas reais.
